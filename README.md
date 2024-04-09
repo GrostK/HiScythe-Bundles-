@@ -1,2 +1,2 @@
 # HiScythe-Bundles-
-Colored Bundles
+Customizable Bundles
