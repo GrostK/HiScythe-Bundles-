@@ -1,0 +1,257 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bundle",
+        "layer1": "item/bundle_string"
+    },
+	"overrides":
+	[
+		{
+			"predicate":
+			{
+				"filled": 0.0000001
+			}, 
+				"model": "item/bundle_filled"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 1
+			},
+				"model": "item/custom/bundle/default/white"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 1
+			},
+				"model": "item/custom/bundle/default/filled/white"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2
+			},
+				"model": "item/custom/bundle/default/light_gray"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 2
+			},
+				"model": "item/custom/bundle/default/filled/light_gray"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 3
+			},
+				"model": "item/custom/bundle/default/gray"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 3
+			},
+				"model": "item/custom/bundle/default/filled/gray"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 4
+			},
+				"model": "item/custom/bundle/default/black"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 4
+			},
+				"model": "item/custom/bundle/default/filled/black"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 5
+			},
+				"model": "item/custom/bundle/default/brown"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 5
+			},
+				"model": "item/custom/bundle/default/filled/brown"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 6
+			},
+				"model": "item/custom/bundle/default/red"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 6
+			},
+				"model": "item/custom/bundle/default/filled/red"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 7
+			},
+				"model": "item/custom/bundle/default/orange"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 7
+			},
+				"model": "item/custom/bundle/default/filled/orange"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 8
+			},
+				"model": "item/custom/bundle/default/yellow"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 8
+			},
+				"model": "item/custom/bundle/default/filled/yellow"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 9
+			},
+				"model": "item/custom/bundle/default/lime"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 9
+			},
+				"model": "item/custom/bundle/default/filled/lime"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 10
+			},
+				"model": "item/custom/bundle/default/green"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 10
+			},
+				"model": "item/custom/bundle/default/filled/green"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 11
+			},
+				"model": "item/custom/bundle/default/cyan"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 11
+			},
+				"model": "item/custom/bundle/default/filled/cyan"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 12
+			},
+				"model": "item/custom/bundle/default/light_blue"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 12
+			},
+				"model": "item/custom/bundle/default/filled/light_blue"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 13
+			},
+				"model": "item/custom/bundle/default/blue"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 13
+			},
+				"model": "item/custom/bundle/default/filled/blue"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 14
+			},
+				"model": "item/custom/bundle/default/purple"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 14
+			},
+				"model": "item/custom/bundle/default/filled/purple"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 15
+			},
+				"model": "item/custom/bundle/default/magenta"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 15
+			},
+				"model": "item/custom/bundle/default/filled/magenta"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 16
+			},
+				"model": "item/custom/bundle/default/pink"
+		},
+		{
+			"predicate":
+			{
+				"filled": 0.0000001,
+				"custom_model_data": 16
+			},
+				"model": "item/custom/bundle/default/filled/pink"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bundle_filled",
+  "textures": {
+    "layer0": "item/custom/bundle/main/filled/light_blue",
+    "layer1": "item/custom/bundle/add/filled/amethyst"
+  }
+}
