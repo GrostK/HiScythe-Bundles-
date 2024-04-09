@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bundle_filled",
+  "textures": {
+    "layer0": "item/custom/bundle/main/filled/lime"
+  }
+}
