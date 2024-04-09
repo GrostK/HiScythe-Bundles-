@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:yellow_dye"
+  },
+  "base": {
+    "item": "minecraft:bundle"
+  },
+  "addition": {
+    "item": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "minecraft:bundle",
+    "components": {
+      "minecraft:custom_model_data": 42,
+      "minecraft:lore": [
+        "{\"translate\":\"item.minecraft.firework_star.yellow\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"item.minecraft.copper_ingot\",\"color\":\"gray\",\"italic\":false}"
+      ]
+    }
+  },
+  "show_notification": false
+}
