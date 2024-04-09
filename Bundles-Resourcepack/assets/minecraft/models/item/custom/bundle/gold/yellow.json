@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/bundle",
+  "textures": {
+    "layer0": "item/custom/bundle/main/yellow",
+    "layer1": "item/custom/bundle/add/gold"
+  }
+}
