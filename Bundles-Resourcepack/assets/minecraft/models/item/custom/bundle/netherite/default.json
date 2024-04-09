@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bundle",
+  "textures": {
+    "layer1": "item/custom/bundle/add/netherite"
+  }
+}
