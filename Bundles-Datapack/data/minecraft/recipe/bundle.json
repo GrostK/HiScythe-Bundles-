@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "~" : {"item":"string"},
+        "#" : {"item":"rabbit_hide"}
+    },
+    "pattern": [
+        "~#~",
+        "# #",
+        "###"
+    ],
+    "result": {
+        "id": "bundle",
+        "count": 1
+    }
+}

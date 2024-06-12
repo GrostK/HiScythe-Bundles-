@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:green_dye"
+  },
+  "base": {
+    "item": "minecraft:bundle"
+  },
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "minecraft:bundle",
+    "components": {
+      "minecraft:custom_model_data": 112,
+      "minecraft:lore": [
+        "{\"translate\":\"item.minecraft.firework_star.green\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"item.minecraft.iron_ingot\",\"color\":\"gray\",\"italic\":false}"
+      ]
+    }
+  },
+  "show_notification": false
+}
