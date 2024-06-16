@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 57,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.red\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.diamond\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.red\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.diamond\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },

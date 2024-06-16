@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 29,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.light_blue\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.amethyst_shard\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.light_blue\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.amethyst\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },

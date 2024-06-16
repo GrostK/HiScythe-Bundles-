@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 130,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.cyan\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.lapis_lazuli\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.cyan\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.lapis\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },

@@ -14,7 +14,7 @@
       "components": {
         "minecraft:custom_model_data": 8,
         "minecraft:lore": [
-          "{\"translate\":\"item.minecraft.firework_star.yellow\",\"color\":\"gray\",\"italic\":false}"
+          "{\"translate\":\"color.minecraft.yellow\",\"color\":\"gray\",\"italic\":false}"
         ]
       }
     },

@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 75,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.orange\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.emerald\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.orange\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.emerald\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },

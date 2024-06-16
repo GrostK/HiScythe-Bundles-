@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 168,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.magenta\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.quartz\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.magenta\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.quartz\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },

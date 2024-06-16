@@ -14,8 +14,8 @@
     "components": {
       "minecraft:custom_model_data": 106,
       "minecraft:lore": [
-        "{\"translate\":\"item.minecraft.firework_star.black\",\"color\":\"gray\",\"italic\":false}",
-        "{\"translate\":\"item.minecraft.iron_ingot\",\"color\":\"gray\",\"italic\":false}"
+        "{\"translate\":\"color.minecraft.black\",\"color\":\"gray\",\"italic\":false}",
+        "{\"translate\":\"trim_material.minecraft.iron\",\"color\":\"gray\",\"italic\":false}"
       ]
     }
   },
